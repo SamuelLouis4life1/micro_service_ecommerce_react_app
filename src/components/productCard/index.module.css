@@ -1,0 +1,15 @@
+.cardBorder{
+    border-radius: 10px !important;
+    box-shadow: 0 0 1em #C0C0C0;
+}
+
+.header{
+    padding-top: 1em;
+    border-radius: 10px 10px 0px 0px;
+    color: white;
+    background-color: #68AF85;
+}
+
+.bold{
+    font-weight: 600;
+}
